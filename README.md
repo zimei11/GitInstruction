@@ -1,5 +1,5 @@
-# GitInstruction
-> git使用说明
+# Git Instruction
+> [zimei11/GitInstruction: git使用说明 (github.com)](https://github.com/zimei11/GitInstruction)
 
 [toc]
 
